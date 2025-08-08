@@ -1,6 +1,11 @@
-# Vue 3 + TypeScript + Vite
+# 项目配置
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+vue 3 + vite 6 + tailwindcss 3 + pinia + vue-route + element plus
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
-# viteweb
+# Docker容器
+
+nvm + nodejs 18 + curl + vim + git
+
+# 目的
+
+新项目快速开发，直接下载项目利用镜像实例化容器开发
